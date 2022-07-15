@@ -1,0 +1,14 @@
+{
+  "name": "hyper-select",
+  "version": "0.0.1",
+  "keywords": [
+    "hyper",
+    "hyper.app",
+    "hyper-plugin"
+  ],
+  "description": "Hyper extension to select text with shift+{left, right}",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomocy/hyper-select"
+  }
+}
